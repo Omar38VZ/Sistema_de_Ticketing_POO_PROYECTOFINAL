@@ -20,9 +20,9 @@ Fue construido utilizando el paradigma de Programación Orientada a Objetos.
 - Mantener un historial completo de cada incidencia  
 
 ## Autor
-Omar Vásquez Machorro
-s24016731
-Universidad Veracruzana campus Coatzacoalcos 
+- Omar Vásquez Machorro
+- s24016731
+- Universidad Veracruzana campus Coatzacoalcos 
 
 ## Cómo ejecutar el sistema
 1. Clonar o descargar este repositorio
