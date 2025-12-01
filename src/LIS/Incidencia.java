@@ -73,7 +73,7 @@ public class Incidencia {
         agregarHistorial("Estado cambiado a: " + nuevoEstadoDeIncidencia);
     }
 
-    // NUEVO: cambiar prioridad (lo usa el técnico)
+    //cambiar prioridad (lo usa el técnico)
     public void cambiarPrioridad(Prioridad nuevaPrioridad) {
         this.prioridad = nuevaPrioridad;
         agregarHistorial("Prioridad cambiada a: " + nuevaPrioridad);
